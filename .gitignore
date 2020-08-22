@@ -1,0 +1,12 @@
+node_modules/
+package-lock.json
+npm-debug.log*
+
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Distribution directories
+dist/

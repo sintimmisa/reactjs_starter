@@ -1,0 +1,9 @@
+
+/* This will tell babel which presets to use to transpile the code
+ 1. env: this preset is used to transpile the ES6/ES7/ES8 code to ES5
+ 2. react: this preset will will transpile JSX code to ES5
+*/
+
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
